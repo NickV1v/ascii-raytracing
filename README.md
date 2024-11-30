@@ -9,4 +9,4 @@ ASCII Ray Tracing is a project that allows you to run raytracing directly in the
 ![example3](GIF/example3.gif)
 
 # Notice
-Before compiling, make sure that you have set the size of the window and the font of your terminal
+Before compiling, make sure that you have set the size of the window and the font size of your terminal.
